@@ -1,2 +1,1 @@
-# Metric-Imperial-Converter
-Finished Metric-Imperial Converter project from freeCodeCamp.org Quality Assurance certification
+# [Metric-Imperial Converter](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
